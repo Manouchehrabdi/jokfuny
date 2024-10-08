@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+  font-family: "Yekan";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../src/fonts/Yekan.woff") format("woff");
+}
+@tailwind utilities;
